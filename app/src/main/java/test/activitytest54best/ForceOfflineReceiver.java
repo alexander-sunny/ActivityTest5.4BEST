@@ -18,7 +18,7 @@ import android.view.WindowManager;
 public class ForceOfflineReceiver extends BroadcastReceiver {
 
     @Override
-    //okokoko
+    //okokokofdsfdsf
     public void onReceive(final Context context, final Intent intent) {
 
         AlertDialog.Builder dialogBuilder = new AlertDialog.Builder(context);
